@@ -7,10 +7,23 @@ Next.jsでもGatsbyでも全然いい。
 いいのだけど、サッと書きたいだけのときは重い。  
 そう思って最低限必要だと思うものを1コマンド叩けばいいようにスクリプトを書いた。
   
-## 解説
+## やること
+最終結果： 現在のディレクトリにreact環境を作る
+
+1. tsconfig.jsonを作る
+2. webpack.config.jsを作る
+3. index.htmlを作る
+4. src/index.tsx, src/components/App.tsxを作る
+5. npmパッケージ webpack webpack-cli webpack-dev-server html-webpack-plugin typescript ts-loader をインストールする
+6. react関連のパッケージ react react-dom @types/react @types/react-dom をインストールする
+  
 eslintやprettierは必要なら別途入れる。  
 個人でサクッと書く分にはvscode側のlint拡張とかで済ませていいと思うので含めていない。  
 css in jsも必要なら後で入れればいい。プロダクト開発のテンプレートではないので。  
+  
+今回はwebpackにしたけど、バンドラーは好きなものを使っていい。
+
+## 解説
   
 まずはtsconfigファイルを生成する関数を作る。  
 シェルはzshを使っている。  

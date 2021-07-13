@@ -105,17 +105,21 @@ wasmの影響もあり、言語的には興味があります。
 DBやSQLはまだ面白さがわかってないため、積極的に取り組んできてはいません。  
   
 ### スキルセット
+開発系
+* typescript
+* react hooks, class + recompose
+* shellscript
 * vue 2.0
 * vue 3.0 composition api
-* typescript
-* react class + recompose, hooks
-* shellscript
+  
+デザイン系
 * photoshop
 * illustrator
+* XD
   
 vue <-> react のリファクタ経験があります。  
-
-
+reactはclass + recompose時代に実務経験があり、個人では主にhooks + tsで開発しています。  
+  
 ### web職務経験
 * 2014 webデザイン業務受託 => 正社員  
 主な業務: webデザイン DTPデザイン マークアップ スタイリング 保守・運用  

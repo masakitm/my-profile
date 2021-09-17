@@ -125,7 +125,7 @@ reactはclass + recompose時代に実務経験があります。
 主な業務: webデザイン DTPデザイン マークアップ スタイリング 保守・運用  
 主要技術: jquery wordpress html5 css3 photoshop illustrator  
 webデザイナー・マークアップエンジニアとして
-主にコーポレートサイトの制作およびwordpress保守運用を担当した。  å
+主にコーポレートサイトの制作およびwordpress保守運用を担当した。  
 
 * 2017 SIerへフロントエンドエンジニアとして入社  
 主な業務: webアプリケーション開発  

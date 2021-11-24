@@ -1,5 +1,8 @@
 # 私について
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masakitm)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### やってきたこと
 * フロントエンド技術選定 
   - jsフレームワーク選定
